@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @at9045
+- 👋 Hi, I’m Akshay Tondak
 - 👀 I’m interested in cloud
 - 🌱 I’m currently learning data engineering and machine learning
 - 💞️ I’m looking to collaborate on data science project
